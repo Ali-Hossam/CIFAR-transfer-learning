@@ -31,14 +31,11 @@ To run the notebook, you need the following dependencies:
 Before running this notebook, you must install it locally and install the dataset split into two folders: train and test data with two csv files naming train_labels.csv and predictions.csv for test data labels.
 
 To install the notebook locally, run the following command in a terminal:
+
 `git clone https://github.com/Ali-Hossam/CIFAR-transfer-learning.git`
 
-To install the dataset, download it from the following link:
+To install the dataset, download it from the following link: [Link to dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 
-[Link to dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
-
-Once you have downloaded the dataset, unzip it and extract the two folders: train and test.
-
-Move the train and test folders to the same directory as this notebook.
+Once you have downloaded the dataset, unzip it and extract the two folders: train and test, move the train and test folders to the same directory as this notebook.
 
 Finally, open the notebook in a Jupyter Notebook.
